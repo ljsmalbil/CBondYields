@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include "yield.h"
 
-
 int main() {
     printf("Hello, World!\n");
     yield_to_maturity( 0.0001 );

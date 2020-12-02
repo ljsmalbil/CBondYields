@@ -27,6 +27,7 @@ int yield_to_maturity (float sensitivity) {
             YTM_pos += 0.0001;
 
         } else {
+            /*  double check this  */
             bond_price = (coupon_value * ((1 - (1 / (pow((1 + YTM_neg), n))) / YTM_neg)) + (
                     face_value * (1 / (pow((1 + YTM_neg), n)))));
 
