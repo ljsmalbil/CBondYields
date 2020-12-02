@@ -9,4 +9,12 @@
 /Users/louksmalbil/Desktop/FinanceProjects/CBondYields/main.c
 stdio.h
 -
+yield.h
+/Users/louksmalbil/Desktop/FinanceProjects/CBondYields/yield.h
+
+/Users/louksmalbil/Desktop/FinanceProjects/CBondYields/yield.h
+stdbool.h
+-
+math.h
+-
 
