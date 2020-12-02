@@ -1,2 +1,2 @@
 # CBondYields
-This is a C++ version of an earlier project. 
+This is a C version of an earlier project. 
